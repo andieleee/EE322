@@ -13,4 +13,4 @@
 `block of code`
 ---
 [funny fish](https://bulbapedia.bulbagarden.net/wiki/File:980Clodsire.png)
-!(kirbo spin.gif)
+![](kirbospin.gif)
