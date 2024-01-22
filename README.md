@@ -1,6 +1,6 @@
 # EE 322
 ![](kirbospin.gif) <br>
-  **Bold** & *Italics*
+  **Andrew Lee**:*3/4 Electrical Engineer*
   > Quote me
 ## 2nd Heading
   1. First
