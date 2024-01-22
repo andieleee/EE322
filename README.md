@@ -12,4 +12,4 @@
 ### 3rd Heading
 `block of code`
 ---
-[funny fish](https://bulbapedia.bulbagarden.net/wiki/File:980Clodsire.png)
+[funny fish](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
