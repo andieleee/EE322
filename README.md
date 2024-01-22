@@ -1,6 +1,6 @@
-# EE 322 Heading
-  **Bold**
-  *Italics*
+# EE 322
+![](kirbospin.gif) <br>
+  **Bold** & *Italics*
   > Quote me
 ## 2nd Heading
   1. First
@@ -13,4 +13,3 @@
 `block of code`
 ---
 [funny fish](https://bulbapedia.bulbagarden.net/wiki/File:980Clodsire.png)
-![](kirbospin.gif)
