@@ -1,6 +1,7 @@
 # EE 322
   **Andrew Lee**: *3/4 Electrical Engineer*
   > Concentration in Embedded Systems
+---
 ![](kirbospin.gif) <br>
 ## List
 Labs will likely go here
@@ -12,5 +13,4 @@ Labs will likely go here
   - Fourth
 ### Code
 `Code goes here`
----
 [funny fish](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
