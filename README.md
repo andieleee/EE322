@@ -14,4 +14,4 @@ Labs will go here
   - Fourth
 ### Code
 `Code goes here` <br>
-[funny fish](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
+[fish](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
