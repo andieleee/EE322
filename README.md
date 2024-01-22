@@ -2,9 +2,10 @@
   **Andrew Lee**: *3/4 Electrical Engineer*
   > Concentration in Embedded Systems
 ---
-![](kirbospin.gif) <br>
-## List
-Labs will likely go here
+![](kirbospin.gif)
+---
+## Labs
+Labs will go here
   1. First
   2. Second
   3. Third
