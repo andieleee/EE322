@@ -1,10 +1,8 @@
 # EE 322
----
   **Andrew Lee**: *3/4 Electrical Engineer*
   > Concentration in Embedded Systems
 ![](kirbospin.gif)
 ## About Me
----
  - Love watching soccer and F1
  - Excited to learn
  - Sleeeeeeep
