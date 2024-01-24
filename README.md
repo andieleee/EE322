@@ -13,7 +13,8 @@ Labs will go here
   2. Second
   3. Third
 ## Code
-`#ifndef __MY_EXTENDED_NETWORK_SINK_EXT_H_
+```
+#ifndef __MY_EXTENDED_NETWORK_SINK_EXT_H_
 #define __MY_EXTENDED_NETWORK_SINK_EXT_H_
 
 #include <omnetpp.h>
@@ -28,6 +29,8 @@ class Sink_Ext : public queueing::Sink
     virtual void handleMessage(cMessage *msg) override;
 };
 
-#endif` <br>
+#endif
+'''
+<br>
 
 [sire](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
