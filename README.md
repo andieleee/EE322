@@ -6,13 +6,11 @@
  - Love watching soccer and F1
  - Excited to learn
  - Sleeeeeeep
-### Labs
----
+## Labs
 Labs will go here
   1. First
   2. Second
   3. Third
-#### Code
----
+## Code
 `Code goes here` <br>
 [sire](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
