@@ -13,7 +13,7 @@ Labs will go here
   2. Second
   3. Third
 ## Code
-Some random Omnet Code
+Some random OMNeT++ Code
 ```
 #ifndef __MY_EXTENDED_NETWORK_SINK_EXT_H_
 #define __MY_EXTENDED_NETWORK_SINK_EXT_H_
