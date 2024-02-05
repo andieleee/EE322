@@ -2,7 +2,7 @@
 
 ## Half Adder
 
-[Screenshot](Resources/lab1_ha.png)
+![](/main/Resources/lab1_ha.png)
 
 ## T Flip-flop
 ![](main/Resources/lab1_tff.png)
