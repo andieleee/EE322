@@ -2,7 +2,7 @@
   **Andrew Lee**: *3/4 Electrical Engineer*
   > Concentration in Embedded Systems <br>
   
-![](kirbospin.gif)
+![](Resources/kirbospin.gif)
 ## About Me
  - Love watching soccer and F1
  - Excited to learn
