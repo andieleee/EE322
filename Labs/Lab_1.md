@@ -1,1 +1,1 @@
-Lab 1: GHDL & GTKWave
+# Lab 1: GHDL & GTKWave
