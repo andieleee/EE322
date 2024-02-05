@@ -5,4 +5,4 @@
 [Screenshot](Resources/lab1_ha.png)
 
 ## T Flip-flop
-![](Resources/lab1_tff.png)
+![](main/Resources/lab1_tff.png)
