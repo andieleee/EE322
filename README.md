@@ -7,9 +7,8 @@
  - Love watching soccer and F1
  - Excited to learn
  - Sleeeeeeep
-## Labs
-Labs will go here
-  1. First
+## [Labs](https://github.com/andieleee/EE322/tree/main/Labs)
+  1. [Lab 1](https://github.com/andieleee/EE322/blob/main/Labs/Lab_1.md)
   2. Second
   3. Third
 ## Code
