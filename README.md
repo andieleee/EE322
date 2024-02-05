@@ -31,5 +31,3 @@ class Sink_Ext : public queueing::Sink
 
 #endif
 ```
-
-[sire](https://archives.bulbagarden.net/media/upload/7/77/0980Clodsire.png)
