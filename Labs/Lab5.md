@@ -6,7 +6,7 @@ Due to Paho-MQTT updating on 2/11 to v2.0.0, the provided scripts required a lin
 
 *NEW* ``` client = mqtt.Client(CallbackAPIVersion.VERSION1) ```
 
-These changes are highlighted in this image.
+These changes are highlighted in the image below.
 
 ![](Screenshots/lab5_1.png)
 ---
