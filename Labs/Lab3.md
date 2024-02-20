@@ -3,4 +3,5 @@
 ![](Screenshots/lab3_1.png)
 ![](Screenshots/lab3_2.png)
 ![](Screenshots/lab3_3.png)
-![](Screenshots/lab3_document.txt)
+
+The document.txt is a text file of the Declaration of Independence.
