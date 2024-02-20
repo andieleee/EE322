@@ -4,4 +4,4 @@
 ![](Screenshots/lab3_2.png)
 ![](Screenshots/lab3_3.png)
 
-The document.txt is a text file of the Declaration of Independence.
+document.txt is a text file of the Declaration of Independence.
