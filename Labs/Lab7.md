@@ -2,7 +2,7 @@
 
 ![](Screenshots/lab7_1.png)
 ---
-![](Screenshots/lab7_2.png)
+![](Screenshots/lab7_2_1.png)
 ---
 ![](Screenshots/lab7_3.png)
 ---
