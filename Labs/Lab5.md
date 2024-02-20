@@ -14,3 +14,4 @@ Test of sub/pub.py & sub/pub-multiple.py
 ---
 The CPU test
 ![](Screenshots/lab5_3.png)
+---
