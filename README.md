@@ -9,8 +9,11 @@
  - Sleeeeeeep
 ## [Labs](https://github.com/andieleee/EE322/tree/main/Labs)
   1. [Lab 1](https://github.com/andieleee/EE322/blob/main/Labs/Lab_1.md)
-  2. Second
-  3. Third
+  2. [Lab 2](https://github.com/andieleee/EE322/blob/main/Labs/Lab_2.md)
+  3. [Lab 3](https://github.com/andieleee/EE322/blob/main/Labs/Lab_3.md)
+  4. [Lab 4](https://github.com/andieleee/EE322/blob/main/Labs/Lab_4.md)
+  5. [Lab 5](https://github.com/andieleee/EE322/blob/main/Labs/Lab_5.md)
+  6. [Lab 6](https://github.com/andieleee/EE322/blob/main/Labs/Lab_6.md)
 ## Code
 Some random OMNeT++ Code
 ```
