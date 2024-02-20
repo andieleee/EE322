@@ -14,6 +14,7 @@
   4. [Lab 4](https://github.com/andieleee/EE322/blob/main/Labs/Lab_4.md)
   5. [Lab 5](https://github.com/andieleee/EE322/blob/main/Labs/Lab_5.md)
   6. [Lab 6](https://github.com/andieleee/EE322/blob/main/Labs/Lab_6.md)
+  7. [Lab 7](https://github.com/andieleee/EE322/blob/main/Labs/Lab_7.md)
 ## Code
 Some random OMNeT++ Code
 ```
