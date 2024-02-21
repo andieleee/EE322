@@ -1,5 +1,7 @@
 # Lab 8: Data Analysis
 
+Tensorflow was incredibly difficult to install due to Debian 11
+
 CSV Data
 ![](Screenshots/lab8_csv.png)
 ---
