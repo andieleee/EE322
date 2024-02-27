@@ -7,6 +7,5 @@ CSV Data
 ---
 ![](Screenshots/lab8_1_3.png)
 ---
-The Pi has no temperature sensor, so all temperature data was 0.
 ![](Screenshots/lab8_2_3.png)
 ---
