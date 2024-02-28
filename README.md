@@ -14,8 +14,8 @@
   4. [Lab 4](https://github.com/andieleee/EE322/blob/main/Labs/Lab4.md)
   5. [Lab 5](https://github.com/andieleee/EE322/blob/main/Labs/Lab5.md)
   6. [Lab 6](https://github.com/andieleee/EE322/blob/main/Labs/Lab6.md)
-  7. [Lab 7 fixed again! now with temperature data](https://github.com/andieleee/EE322/blob/main/Labs/Lab7.md)
-  8. [Lab 8 fixed!](https://github.com/andieleee/EE322/blob/main/Labs/Lab8.md)
+  7. [Lab 7](https://github.com/andieleee/EE322/blob/main/Labs/Lab7.md)
+  8. [Lab 8](https://github.com/andieleee/EE322/blob/main/Labs/Lab8.md)
   9. [Lab 9](https://github.com/andieleee/EE322/blob/main/Labs/Lab9.md)
   10. [Lab 10](https://github.com/andieleee/EE322/blob/main/Labs/Lab10.md)
 ## Code
