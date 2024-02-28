@@ -1,6 +1,9 @@
 # Lab 8: Data Analysis
 
-Tensorflow was incredibly difficult to install due to Debian 11
+I was unable to install tensorflow due to the io file system not being able to installed on my Raspberry Pi Model & not enough RAM to run bazel & tensorflow.
+Tensorflow requires ~6 gb of ram to run, while this Pi only has 1 gb + 2 gb from zram
+![](Screenshots/lab8_error.png)
+![](Screenshots/lab8_error2.png)
 
 CSV Data
 ![](Screenshots/lab8_csv_2.png)
