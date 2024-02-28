@@ -7,5 +7,5 @@ CSV Data
 ---
 ![](Screenshots/lab8_1_4.png)
 ---
-![](Screenshots/lab8_2_4.png)
+![](Screenshots/lab8_2_5.png)
 ---
